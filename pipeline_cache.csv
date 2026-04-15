@@ -1,0 +1,492 @@
+ID,Company,Use case,Owner,Sub-type,Current Status,Market concentration,Estimated MAUs (extremely rough),H2 prio,Tier,Est. MAUs,Potential connection,Notes,Outreach Y/N,Inbound,Cold outreach,Warm intro,VP outreach,C-suite outreach
+1,Backcountry.com,B2C chargebacks,Raza,High value transaction fraud,4 - Cold,Low concentration (fragmented / long tail),No estimate,Low,3,10
+2,Burberry,B2C chargebacks,Raza,High value transaction fraud,4 - Cold,Low concentration (fragmented / long tail),No estimate,Low,3,5
+3,Cartier,B2C chargebacks,Raza,High value transaction fraud,4 - Cold,Low concentration (fragmented / long tail),No estimate,Low,3,5
+4,Bose,B2C chargebacks,Raza,High value transaction fraud,5 - No outreach,Low concentration (fragmented / long tail),No estimate,Low,3,10
+5,Chanel,B2C chargebacks,Raza,High value transaction fraud,5 - No outreach,Low concentration (fragmented / long tail),No estimate,Low,3,5
+6,Evo,B2C chargebacks,Raza,High value transaction fraud,5 - No outreach,Low concentration (fragmented / long tail),No estimate,Low,3,10
+7,Gucci,B2C chargebacks,Raza,High value transaction fraud,5 - No outreach,Low concentration (fragmented / long tail),No estimate,Low,3,5
+8,Hermes,B2C chargebacks,Raza,High value transaction fraud,5 - No outreach,Low concentration (fragmented / long tail),No estimate,Low,3,5,,5 - No outreach
+9,Louis Vuitton,B2C chargebacks,Raza,High value transaction fraud,5 - No outreach,Low concentration (fragmented / long tail),No estimate,Low,3,5,,1 - Live
+10,REI,B2C chargebacks,Raza,High value transaction fraud,5 - No outreach,Low concentration (fragmented / long tail),No estimate,Low,3,10,,4 - Deprioritized until 2026
+11,Saks Fifth Avenue,B2C chargebacks,Raza,High value transaction fraud,5 - No outreach,Low concentration (fragmented / long tail),No estimate,Low,3,5
+12,Tiffany & Co,B2C chargebacks,Raza,High value transaction fraud,5 - No outreach,Low concentration (fragmented / long tail),No estimate,Low,3,5
+13,West Elm,B2C chargebacks,Raza,High value transaction fraud,5 - No outreach,Low concentration (fragmented / long tail),No estimate,Low,3,5
+14,Williams Sonoma,B2C chargebacks,Raza,High value transaction fraud,5 - No outreach,Low concentration (fragmented / long tail),No estimate,Low,3,5
+15,Adobe,Content Provenance,Adam,Video and/or image editing,1 - Live,Moderately concentrated,100+ million,High,1,2
+16,Shutterstock,Content Provenance,Adam,Video and/or image editing,3.5 Actively Engaged,Moderately concentrated,20 - 99 million,Medium,2,1
+17,"Apple (Final Cut Pro, iMovie)",Content Provenance,Adam,Video and/or image editing,5 - No outreach,Moderately concentrated,100+ million,High,1,150,Dan Cath,Raza connected
+18,Canva,Content Provenance,Adam,Video and/or image editing,5 - No outreach,Moderately concentrated,100+ million,High,1,240,John Milinovich,Sara Rowe connected
+19,Sony,Content Provenance,Adam,Image capture,5 - No outreach,Moderately concentrated,,,1
+20,Leica,Content Provenance,Adam,Image capture,5 - No outreach,Moderately concentrated,,,1
+21,Nikon,Content Provenance,Adam,Image capture,5 - No outreach,Moderately concentrated,,,1
+22,Canon,Content Provenance,Adam,Image capture,5 - No outreach,Moderately concentrated,,,1
+23,Docusign,Content Provenance,Adam,Document signing,3 - Warm Intro,Highly concentrated,100+ million,High,1,150
+24,Google Gemini,Content Provenance,Adam,Video and/or image editing,5 - No outreach,Moderately concentrated,100+ million,High,1,650,"Jane Kim Hong - Gemini Partnerships
+Sam Friedman",,TRUE
+25,Midjourney,Content Provenance,Adam,AI video creation / editing,5 - No outreach,Moderately concentrated,<20 million,High,1,2
+26,Runway,Content Provenance,Adam,AI video creation / editing,5 - No outreach,Moderately concentrated,<20 million,Medium,3,0.3
+27,GIMP,Content Provenance,Adam,Video and/or image editing,5 - No outreach,Moderately concentrated,No estimate,Low,3,0.2,,,TRUE
+28,OpenAI (Sora 2),Content Provenance,Adam,AI video creation / editing,5 - No outreach,Moderately concentrated,100+ million,High,1,10,Mahak Sharma,,TRUE
+29,Financial Times,Freemium abuse,Adam,News media,3 - Warm Intro,Moderately concentrated,<20 million,Medium,1,1.5
+30,Economist,Freemium abuse,Adam,News media,4 - Cold,Moderately concentrated,<20 million,Medium,1,1.5
+31,Amazon Prime Video,Freemium abuse,Adam,Media streaming,5 - No outreach,Moderately concentrated,100+ million,Medium,1,200,Natasha Parekh - Strategic Partnerships at Amazon | Former BetterUp | LinkedIn
+32,Disney+,Freemium abuse,Adam,Media streaming,5 - No outreach,Moderately concentrated,100+ million,Medium,1,150,Peter Janulis
+33,Spotify,Freemium abuse,Adam,Media streaming,5 - No outreach,Moderately concentrated,100+ million,Medium,1,150,"Julian Jiminez
+Stephanie Shaer
+Jorge Ortiz","Raj Patel connected
+
+"
+34,DataBricks,Freemium abuse,Adam,SaaS,3.5 Actively Engaged,,,Medium,1,0.5,Rupal Jain,Abhi meeting
+35,Snowflake,Freemium abuse,Adam,SaaS,5 - No outreach,,,Medium,1,0.5
+36,Azure,Freemium abuse,Adam,SaaS,5 - No outreach,,,Medium,1,0.5
+37,GCP,Freemium abuse,Adam,SaaS,5 - No outreach,,,Medium,1,0.5
+38,MongoDB,Freemium abuse,Adam,SaaS,5 - No outreach,,,Medium,1,0.5
+39,Cloudera,Freemium abuse,Adam,SaaS,5 - No outreach,,,Medium,1,0.5
+40,Domo,Freemium abuse,Adam,SaaS,5 - No outreach,,,Medium,1,0.5
+41,Oracle,Freemium abuse,Adam,SaaS,5 - No outreach,,,Medium,1,0.5
+42,Zendesk,Freemium abuse,Adam,SaaS,5 - No outreach,,,Medium,1,0.5
+43,Intercom,Freemium abuse,Adam,SaaS,5 - No outreach,,,Medium,1,0.5
+44,Dropbox,Freemium abuse,Adam,SaaS,5 - No outreach,,,Medium,1,0.5
+45,Box,Freemium abuse,Adam,SaaS,5 - No outreach,,,Medium,1,0.5
+46,Squarespace,Freemium abuse,Adam,SaaS,5 - No outreach,,,Medium,1,0.5
+47,Wix,Freemium abuse,Adam,SaaS,5 - No outreach,,,Medium,1,0.5
+48,Atlassian,Freemium abuse,Adam,SaaS,5 - No outreach,,,Medium,1,0.5
+49,Apple TV+,Freemium abuse,Adam,Media streaming,5 - No outreach,Moderately concentrated,20 - 99 million,Medium,1,40
+50,ESPN+,Freemium abuse,Adam,Media streaming,5 - No outreach,Moderately concentrated,20 - 99 million,Medium,1,25
+51,Hulu,Freemium abuse,Adam,Media streaming,5 - No outreach,Moderately concentrated,20 - 99 million,Medium,1,55
+52,YouTube TV,Freemium abuse,Adam,Media streaming,5 - No outreach,Moderately concentrated,,,1
+53,Paramount+,Freemium abuse,Adam,Media streaming,5 - No outreach,Moderately concentrated,20 - 99 million,Medium,1,80
+54,Bloomerg Media,Freemium abuse,Adam,News media,5 - No outreach,Moderately concentrated,<20 million,Medium,1,1
+55,Gannett Co,Freemium abuse,Adam,News media,5 - No outreach,Moderately concentrated,<20 million,Medium,1,2
+56,New York Times,Freemium abuse,Adam,News media,5 - No outreach,Moderately concentrated,<20 million,Medium,1,12
+57,The Atlantic,Freemium abuse,Adam,News media,5 - No outreach,Moderately concentrated,<20 million,Medium,1,1.5
+58,The Guardian,Freemium abuse,Adam,News media,5 - No outreach,Moderately concentrated,<20 million,Medium,1,1.5
+59,The New Yorker,Freemium abuse,Adam,News media,5 - No outreach,Moderately concentrated,<20 million,Medium,1,1.5
+60,Wall Street Journal,Freemium abuse,Adam,News media,5 - No outreach,Moderately concentrated,<20 million,Medium,1,5
+61,AMC+,Freemium abuse,Adam,Media streaming,5 - No outreach,Moderately concentrated,<20 million,Low,3,10
+62,YouTube TV,Freemium abuse,Adam,Media streaming,5 - No outreach,Moderately concentrated,<20 million,Low,3,10
+63,Washington Post,Freemium abuse,Adam,News media,5 - No outreach,Moderately concentrated,<20 million,Medium,1,2.5
+64,Booking Holdings,Impersonation,Adam,Travel reviews,5 - No outreach,Moderately concentrated,100+ million,High,1,100,"Ayca Mentes
+Pascal Mafait"
+65,Cisco Webex,Impersonation,Adam,Video communication,4 - Cold,Highly concentrated,100+ million,High,1,50
+66,RingCentral,Impersonation,Adam,Video communication,4 - Cold,Highly concentrated,<20 million,Medium,2,5
+67,MSFT Teams,Impersonation,Adam,Video communication,"2 - Signed, not live",Highly concentrated,100+ million,High,1,600
+68,Zoom,Impersonation,Adam,Video communication,"2 - Signed, not live",Highly concentrated,100+ million,High,1,600
+69,Google Maps,Impersonation,Adam,Consumer reviews,5 - No outreach,Moderately concentrated,100+ million,High,1,150,"Kirk Mitchell, Deepak Sudhakar"
+70,Google Meet,Impersonation,Adam,Video communication,5 - No outreach,Highly concentrated,100+ million,High,1,300
+71,TikTok,Impersonation,Adam,,6 - Not interested / declined,,100+ million,Low,1,1000
+72,Patreon,Impersonation,Adam,,5 - No outreach,,,,1
+73,Nextdoor,Impersonation,Adam,Consumer reviews,5 - No outreach,Moderately concentrated,20 - 99 million,High,1,50,Jason Hwang
+74,Foursquare,Impersonation,Adam,Consumer reviews,5 - No outreach,Moderately concentrated,20 - 99 million,Medium,2,10,Lea Purcell
+75,Goodreads,Impersonation,Adam,Consumer reviews,5 - No outreach,Moderately concentrated,20 - 99 million,Medium,2,10,Katie Berk
+76,Expedia,Impersonation,Adam,Travel reviews,5 - No outreach,Moderately concentrated,20 - 99 million,Medium,2,5,Radhika Mehra
+77,Kayak,Impersonation,Adam,Travel reviews,5 - No outreach,Moderately concentrated,20 - 99 million,Medium,2,1,Daniel Wiener
+78,Priceline,Impersonation,Adam,Travel reviews,5 - No outreach,Moderately concentrated,20 - 99 million,Medium,2,15,Brett Cochran
+79,Zoho,Impersonation,Adam,Video communication,5 - No outreach,Highly concentrated,20 - 99 million,Medium,2,5
+80,Better Business Bureau,Impersonation,Adam,Consumer reviews,5 - No outreach,Moderately concentrated,<20 million,Low,2,2,Rebekah Dopp
+81,Slack,Impersonation,Adam,Work collaboration,5 - No outreach,Highly concentrated,100+ million,High,1,80
+82,Bumble,Out of scope (Impersonation),Adam,Dating,5 - No outreach,Highly concentrated,20 - 99 million,Medium,2,50
+83,Match Group,Out of scope (Impersonation),Adam,Dating,5 - No outreach,Highly concentrated,20 - 99 million,Medium,2,50
+84,Furnished Finder,P2P fraud,Adam,P2P Rentals,"2 - Signed, not live",Highly concentrated,<20 million,Medium,2,1
+85,Tripadvisor,Impersonation,Adam,Travel reviews,5 - No outreach,Moderately concentrated,100+ million,High,1,50
+86,Yelp,Impersonation,Adam,Consumer reviews,5 - No outreach,Moderately concentrated,100+ million,High,1,150,"Zack Hoberg
+David McKie"
+87,Airbnb,P2P fraud,Adam,P2P Rentals,3.5 Actively Engaged,Highly concentrated,100+ million,High,1,25
+88,Mercari,P2P fraud,Adam,P2P sales,5 - No outreach,Low concentration (fragmented / long tail),20 - 99 million,Medium,2,20
+89,Poshmark,P2P fraud,Adam,P2P sales,5 - No outreach,Low concentration (fragmented / long tail),20 - 99 million,Medium,2,30
+90,StockX,P2P fraud,Adam,P2P sales,5 - No outreach,Low concentration (fragmented / long tail),20 - 99 million,Medium,2,10
+91,1stDibs,P2P fraud,Adam,P2P sales,5 - No outreach,Low concentration (fragmented / long tail),<20 million,Low,3,1
+92,Facebook Marketplace,P2P fraud,Adam,P2P sales,3 - Warm Intro,,100+ million,High,1
+93,Depop,P2P fraud,Adam,P2P sales,5 - No outreach,Low concentration (fragmented / long tail),<20 million,Low,3,5
+94,Chrono24,P2P fraud,Adam,P2P sales,6 - Not interested / declined,Low concentration (fragmented / long tail),<20 million,Low,3,10
+95,Usertesting,Professional representation,Raza,UX feedback,1 - Live,Highly concentrated,<20 million,Medium,2,0.5
+96,Behance,Professional representation,Abhi,Gig opportunities,1 - Live,Moderately concentrated,<20 million,Medium,2,2
+97,eBay,P2P fraud,Adam,P2P sales,5 - No outreach,Low concentration (fragmented / long tail),100+ million,High,1,20
+98,Etsy,P2P fraud,Adam,P2P sales,5 - No outreach,,,High,1
+99,VRBO,P2P fraud,Adam,P2P Rentals,5 - No outreach,Highly concentrated,20 - 99 million,High,1,40
+100,User Interviews,Professional representation,Raza,Broad panel / research participants,"2 - Signed, not live",Highly concentrated,<20 million,Medium,2,5
+101,GLG,Professional representation,Raza,Expert network,"2 - Signed, not live",Highly concentrated,<20 million,Low,2,1
+102,PeerSpot,Professional representation,Raza,Software Reviews,"2 - Signed, not live",Moderately concentrated,<20 million,Medium,2,0.5
+103,Loom (Atlassian),Professional representation,Raza,Work collaboration,3 - Warm Intro,Highly concentrated,20 - 99 million,Medium,2,30
+104,Miro,Professional representation,Raza,Work collaboration,3 - Warm Intro,Highly concentrated,<20 million,Medium,2,10
+105,Workday,Professional representation,Adam,ATS,5 - No outreach,,,,1,,,Accenture is very keen to advocate for us to get VOLI integrated into Workday
+106,Figma,Professional representation,Raza,Work collaboration,3.5 Actively Engaged,Highly concentrated,<20 million,High,1,13
+107,Medium,Professional representation,Raza,Publishing platform,3.5 Actively Engaged,Moderately concentrated,20 - 99 million,High,1,0.5,,,,,,,,,,,,,,Review authenticity,Travel reviews
+108,Stack Overflow,Professional representation,Raza,Publishing platform,5 - No outreach,Moderately concentrated,,High,2,0.2
+109,G2,Professional representation,Raza,Software Reviews,1 - Live,Moderately concentrated,<20 million,High,1,0.5,,,,,,,,,,,,,,Use Case,Sub-Type
+110,AlphaSights,Professional representation,Raza,Expert network,3.5 Actively Engaged,Highly concentrated,<20 million,Low,2,0.2
+111,Arbolus,Professional representation,Raza,Expert network,3.5 Actively Engaged,Highly concentrated,<20 million,Low,2,0.2
+112,Third Bridge,Professional representation,Raza,Expert network,3.5 Actively Engaged,Highly concentrated,<20 million,Low,2,1.5
+113,Product Hunt,Professional representation,Raza,Software Reviews,3.5 Actively Engaged,Moderately concentrated,<20 million,Medium,2,0.5
+114,Trustradius,Professional representation,Raza,Software Reviews,1 - Live,Moderately concentrated,<20 million,High,1,0.5
+115,Reddit,Professional representation,Raza,Publishing platform,3.5 Actively Engaged,Moderately concentrated,100+ million,High,1,850
+116,Coleman Research,Professional representation,Raza,Expert network,4 - Cold,Highly concentrated,<20 million,Low,2,0.5,,,,,,,,,,,,,,Trusted Remote Communication,Messaging
+117,Asana,Professional representation,Raza,Work collaboration,4 - Cold,Highly concentrated,<20 million,Low,2,0.5,,,3500000
+118,Fiverr,Professional representation,Raza,Gig opportunities,3.5 Actively Engaged,Moderately concentrated,<20 million,High,1,1,,,,,,,,,,,,,,Professional credibility,Publishing platform
+119,Thumbtack,Professional representation,Raza,Gig opportunities,4 - Cold,Moderately concentrated,<20 million,Medium,1,0.3,,,,,,,,,,,,,,Content Authenticity,Video and/or image editing
+120,Substack,Professional representation,Raza,Publishing platform,3 - Warm Intro,Moderately concentrated,20 - 99 million,High,1,0.5,,,,,,,,,,,,,,Trusted Remote Communication,Video calls
+121,Trustpilot,Professional representation,Raza,Software Reviews,3.5 Actively Engaged,Moderately concentrated,20 - 99 million,High,1,25
+122,Tumblr,Professional representation,Raza,Publishing platform,5 - No outreach,Moderately concentrated,100+ million,High,1,150
+123,Glassdoor,Professional representation,Adam,Professional reviews,5 - No outreach,Highly concentrated,,Medium,1,60,,,,,,,,,,,,,,Review authenticity,Consumer reviews
+124,Upwork,Professional representation,Raza,Gig opportunities,6 - Not interested / declined,Moderately concentrated,,Medium,1,20,,,,,,,,,,,,,,Freemium Access - Premium Content,Media streaming
+125,TaskRabbit,Professional representation,Raza,Gig opportunities,5 - No outreach,Moderately concentrated,,Medium,1,0.2,,,,,,,,,,,,,,P2P marketplace,P2P Rentals
+126,Blind,Professional representation,Raza,Professional reviews,5 - No outreach,Highly concentrated,<20 million,Medium,2,1
+127,Levels.fyi,Professional representation,Raza,Professional reviews,5 - No outreach,Highly concentrated,<20 million,Medium,2,1
+128,Angi,Professional representation,Raza,Gig opportunities,5 - No outreach,Moderately concentrated,<20 million,Low,2,0.3,,,,,,,,,,,,,,Contractual Non-repudiation,Online storage / contracts
+129,Rover,Professional representation,Raza,Gig opportunities,5 - No outreach,Moderately concentrated,<20 million,Low,3,0.5,,,,,,,,,,,,,,Trusted Remote Communication,Work collaboration
+130,Wag!,Professional representation,Raza,Gig opportunities,5 - No outreach,Moderately concentrated,<20 million,Low,3,0.5,,,,,,,,,,,,,,Content Authenticity,AI video creation / editing
+131,Capterra,Professional representation,Raza,Software Reviews,5 - No outreach,Moderately concentrated,<20 million,Low,3,1,,,,,,,,,,,,,,P2P marketplace,P2P sales
+132,GetApp,Professional representation,Raza,Software Reviews,5 - No outreach,Moderately concentrated,<20 million,Low,3,1,,,,,,,,,,,,,,Professional credibility,Professional reviews
+133,Software Advice,Professional representation,Raza,Software Reviews,5 - No outreach,Moderately concentrated,<20 million,Low,3,0.5,,,,,,,,,,,,,,Review authenticity,Software Reviews
+134,Avis,Professional representation,Adam,Car rental,5 - No outreach,Highly concentrated,No estimate,Low,2,2,,,,,,,,,,,,,,Professional credibility,Broad panel / research participants
+135,Enterprise,Professional representation,Adam,Car rental,5 - No outreach,Highly concentrated,No estimate,Low,2,2,,,,,,,,,,,,,,Professional credibility,Expert network
+136,Hertz,Professional representation,Adam,Car rental,5 - No outreach,Highly concentrated,No estimate,Low,2,2,,,,,,,,,,,,,,Professional credibility,UX feedback
+137,Turo,Professional representation,Adam,Car rental,5 - No outreach,Highly concentrated,No estimate,Low,2,2,,,,,,,,,,,,,,Freemium Access - Premium Content,News media
+138,Classpass,Professional representation,Adam,Fitness,5 - No outreach,Low concentration (fragmented / long tail),No estimate,Low,3,0.1,,,,,,,,,,,,,,Employee Discounts,Car rental
+139,Crunch Fitness,Professional representation,Adam,Fitness,5 - No outreach,Low concentration (fragmented / long tail),No estimate,Low,1,2
+140,Equinox,Professional representation,Adam,Fitness,5 - No outreach,Low concentration (fragmented / long tail),No estimate,Low,1,2
+141,Hilton,Professional representation,Adam,Hotels,5 - No outreach,Highly concentrated,No estimate,Low,1,2
+142,IHG,Professional representation,Adam,Hotels,5 - No outreach,Highly concentrated,No estimate,Low,1,2
+143,Marriott,Professional representation,Adam,Hotels,5 - No outreach,Highly concentrated,No estimate,Low,1,2
+144,Wyndham,Professional representation,Adam,Hotels,5 - No outreach,Highly concentrated,No estimate,Low,1,2,,,,,,,,,,,,,,Content Authenticity,AI video creation / editing
+145,Lyft,Professional representation,Adam,Rideshare,5 - No outreach,Highly concentrated,No estimate,Low,1,2,,,,,,,,,,,,,,Content Authenticity,Video and/or image editing
+146,Uber,Professional representation,Adam,Rideshare,5 - No outreach,Highly concentrated,No estimate,Low,1,2,,,,,,,,,,,,,,Contractual Non-repudiation,Online storage / contracts
+147,Quora,Professional representation,Raza,Publishing platform,6 - Not interested / declined,Moderately concentrated,100+ million,Low,1,150,,,,,,,,,,,,,,Professional credibility,Broad panel / research participants
+148,Notion,Professional representation,Raza,Work collaboration,6 - Not interested / declined,Highly concentrated,20 - 99 million,Medium,2,20,,,,,,,,Professional credibility,Expert network
+149,Trello,Professional representation,Raza,Work collaboration,6 - Not interested / declined,Highly concentrated,20 - 99 million,Low,2,10,,,,,,,,Professional credibility,Professional reviews
+150,Guidepoint Global,Professional representation,Raza,Expert network,6 - Not interested / declined,Highly concentrated,<20 million,Low,3,2,,,,,,,,Professional credibility,Publishing platform
+151,Midjourney,Content Provenance,1,AI video creation / editing,,,,,,,,,,,,,,P2P marketplace,P2P sales
+152,OpenAI (Sora 2),Content Provenance,2,AI video creation / editing,,,,,,,,,,,,,,Review authenticity,Consumer reviews,,,,,,"Does our OKR specify ""Tier 1"" partners"
+153,Docusign,Content Provenance,3,Document signing,,,,,,,,,,,,,,Review authenticity,Software Reviews,,,,,,Yes
+154,Canon,Content Provenance,4,Image capture,,,,,,,,,,,,,,Review authenticity,Travel reviews,,,,,Yes,"Sign 14 partners in FY26, including 7 ""Tier 1"" partners 
+(+5 incremental in H2)"
+155,Leica,Content Provenance,5,Image capture,,,,,,,,,,,,,,Trusted Remote Communication,Messaging,,illustrative,,,No,"Sign 7 ""Tier 1"" partners in FY26 
+(+5 incremental in H2)"
+156,Nikon,Content Provenance,6,Image capture,,,,,,,,,,,,,,Trusted Remote Communication,Video calls,,,Signed,Warm
+157,Sony,Content Provenance,7,Image capture,,,,,,,,,,,,,,Trusted Remote Communication,Work collaboration,,Communications,740,32
+158,"Apple (Final Cut Pro, iMovie)",Content Provenance,8,Video and/or image editing,,,,,,,,,,,,,,,,,Content authenticity,10,10
+159,Canva,Content Provenance,9,Video and/or image editing,,,,,,,,,,,,,,,,,P2P marketplaces,30,10
+160,Google Gemini,Content Provenance,10,Video and/or image editing,,,,,,,,,,,,,,,,,Review authenticity,10,40
+161,Amazon Prime Video,Freemium abuse,11,Media streaming
+162,Apple TV+,Freemium abuse,12,Media streaming
+163,Disney+,Freemium abuse,13,Media streaming
+164,ESPN+,Freemium abuse,14,Media streaming
+165,Hulu,Freemium abuse,15,Media streaming,,,,,,,,,,,,,,,,,,,,Rejected,Untapped
+166,Paramount+,Freemium abuse,16,Media streaming,,,,,,,,,,,,,,,,,,,,10,5
+167,Spotify,Freemium abuse,17,Media streaming,,,,,,,,,,,,,,,,,,,,3,90
+168,Bloomerg Media,Freemium abuse,18,News media,,,,,,,,,,,,,,,,,,,,20,15
+169,Economist,Freemium abuse,19,News media,,,,,,,,,,,,,,,,,,,,10,10
+170,Financial Times,Freemium abuse,20,News media
+171,Gannett Co,Freemium abuse,21,News media
+172,New York Times,Freemium abuse,22,News media
+173,The Atlantic,Freemium abuse,23,News media
+174,The Guardian,Freemium abuse,24,News media
+175,The New Yorker,Freemium abuse,25,News media
+176,Wall Street Journal,Freemium abuse,26,News media
+177,Washington Post,Freemium abuse,27,News media
+178,Atlassian,Freemium abuse,28,SaaS
+179,Azure,Freemium abuse,29,SaaS
+180,Box,Freemium abuse,30,SaaS
+181,Cloudera,Freemium abuse,31,SaaS
+182,DataBricks,Freemium abuse,32,SaaS
+183,Domo,Freemium abuse,33,SaaS,,,,,,,,,,,,,,Estimated MAUs by Use Case Data Table
+184,Dropbox,Freemium abuse,34,SaaS,,,,,,,,,,,,,,,,,3 - Warm Intro,6 - Not interested / declined
+185,GCP,Freemium abuse,35,SaaS,,,,,,,,,,,,,,,1 - Live,"2 - Signed, not live",3.5 Actively Engaged,4 - Cold,5 - No outreach
+186,Intercom,Freemium abuse,36,SaaS,,,,,,,,,,,,,,Use Case,Live,Signed,Warm / engaged,Cold / declined,No contact
+187,MongoDB,Freemium abuse,37,SaaS,,,,,,,,,,,,,,Impersonation,0,"1,200",0,"1,055",928
+188,Oracle,Freemium abuse,38,SaaS,,,,,,,,,,,,,,Professional representation,4,7,932,203,240
+189,Snowflake,Freemium abuse,39,SaaS,,,,,,,,,,,,,,Content Provenance,2,0,151,0,"1,053"
+190,Squarespace,Freemium abuse,40,SaaS,,,,,,,,,,,,,,Freemium abuse,0,0,2,2,754
+191,Wix,Freemium abuse,41,SaaS,,,,,,,,,,,,,,P2P fraud,0,1,25,10,126
+192,Zendesk,Freemium abuse,42,SaaS,,,,,,,,,,,,,,B2C chargebacks,0,0,0,20,70
+193,Google Maps,Impersonation,43,Consumer reviews
+194,Nextdoor,Impersonation,44,Consumer reviews
+195,Yelp,Impersonation,45,Consumer reviews
+196,Booking.com,Impersonation,46,Travel reviews
+197,Tripadvisor,Impersonation,47,Travel reviews
+198,Cisco Webex,Impersonation,48,Video communication
+199,Google Meet,Impersonation,49,Video communication
+200,Slack,Impersonation,50,Work collaboration
+201,Patreon,Impersonation,51
+202,TikTok,Impersonation,52
+203,Airbnb,P2P fraud,53,P2P Rentals
+204,VRBO,P2P fraud,54,P2P Rentals
+205,eBay,P2P fraud,55,P2P sales
+206,Etsy,P2P fraud,56,P2P sales
+207,Facebook Marketplace,P2P fraud,57,P2P sales
+208,Crunch Fitness,Professional representation,58,Fitness
+209,Equinox,Professional representation,59,Fitness
+210,TaskRabbit,Professional representation,61,Gig opportunities
+211,Thumbtack,Professional representation,62,Gig opportunities
+212,Upwork,Professional representation,63,Gig opportunities
+213,Hilton,Professional representation,64,Hotels
+214,IHG,Professional representation,65,Hotels
+215,Marriott,Professional representation,66,Hotels
+216,Wyndham,Professional representation,67,Hotels
+217,Medium,Professional representation,68,Publishing platform
+218,Quora,Professional representation,69,Publishing platform
+219,Reddit,Professional representation,70,Publishing platform
+220,Substack,Professional representation,71,Publishing platform
+221,Tumblr,Professional representation,72,Publishing platform
+222,Lyft,Professional representation,73,Rideshare
+223,Uber,Professional representation,74,Rideshare
+224,Trustpilot,Professional representation,75,Software Reviews
+225,Figma,Professional representation,76,Work collaboration
+226
+227
+228
+229
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249
+250
+251
+252
+253
+254
+255
+256
+257
+258
+259
+260
+261
+262
+263
+264
+265
+266
+267
+268
+269
+270
+271
+272
+273
+274
+275
+276
+277
+278
+279
+280
+281
+282
+283
+284
+285
+286
+287
+288
+289
+290
+291
+292
+293
+294
+295
+296
+297
+298
+299
+300
+301
+302
+303
+304
+305
+306
+307
+308
+309
+310
+311
+312
+313
+314
+315
+316
+317
+318
+319
+320
+321
+322
+323
+324
+325
+326
+327
+328
+329
+330
+331
+332
+333
+334
+335
+336
+337
+338
+339
+340
+341
+342
+343
+344
+345
+346
+347
+348
+349
+350
+351
+352
+353
+354
+355
+356
+357
+358
+359
+360
+361
+362
+363
+364
+365
+366
+367
+368
+369
+370
+371
+372
+373
+374
+375
+376
+377
+378
+379
+380
+381
+382
+383
+384
+385
+386
+387
+388
+389
+390
+391
+392
+393
+394
+395
+396
+397
+398
+399
+400
+401
+402
+403
+404
+405
+406
+407
+408
+409
+410
+411
+412
+413
+414
+415
+416
+417
+418
+419
+420
+421
+422
+423
+424
+425
+426
+427
+428
+429
+430
+431
+432
+433
+434
+435
+436
+437
+438
+439
+440
+441
+442
+443
+444
+445
+446
+447
+448
+449
+450
+451
+452
+453
+454
+455
+456
+457
+458
+459
+460
+461
+462
+463
+464
+465
+466
+467
+468
+469
+470
+471
+472
+473
+474
+475
+476
+477
+478
+479
+480
+481
+482
